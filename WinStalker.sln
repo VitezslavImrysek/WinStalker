@@ -5,6 +5,8 @@ VisualStudioVersion = 17.7.34024.191
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinStalker", "WinStalker\WinStalker.csproj", "{4B1D0CF5-17B5-4EF9-B202-CBB808AA4024}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinStalker.Native", "WinStalker.Native\WinStalker.Native.csproj", "{B54E0750-795B-4CDF-90BE-552CA7ACC083}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{4B1D0CF5-17B5-4EF9-B202-CBB808AA4024}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4B1D0CF5-17B5-4EF9-B202-CBB808AA4024}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4B1D0CF5-17B5-4EF9-B202-CBB808AA4024}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B54E0750-795B-4CDF-90BE-552CA7ACC083}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B54E0750-795B-4CDF-90BE-552CA7ACC083}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B54E0750-795B-4CDF-90BE-552CA7ACC083}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B54E0750-795B-4CDF-90BE-552CA7ACC083}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
